@@ -26,7 +26,4 @@ Desenvolvedor junior em web/mobile, em busca de novas tecnologias e conhecimento
 ---
 
 
-<div align = "left">
-<img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaro-du&layout=compact&theme=monokai"/>
-<img height = "160em" src="https://github-readme-stats.vercel.app/api?username=icaro-du&show_icons=true&theme=monokai"/>
-</div>
+
