@@ -24,11 +24,11 @@ Especialista em Infraestrutura e Redes há 3 anos, com foco em servidores e segu
 
 # 🌐 Infraestrutura & Redes
 <div>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MikroTik-EE2228?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" title="Windows Server" alt="Windows Server" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux" />&nbsp;
+  <img src="https://img.shields.io/badge/MikroTik-EE2228?style=for-the-badge&logo=mikrotik&logoColor=white" title="MikroTik" alt="MikroTik" />&nbsp;
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="Hyper-V" alt="Hyper-V" />&nbsp;
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" title="PowerShell" alt="PowerShell" />&nbsp;
 </div>
 
 ---
