@@ -1,13 +1,13 @@
 <img src = "banner.gif" width = "400px" align = "right"> <br>
 
-# Welcome, here is my github🎲
+# Seja Bem Vindo ao meu GitHub🎲
 
 <div id="Badges">
   <a href = "https://www.linkedin.com/in/icaroeduardotech/" target="_blank" rel="noopener noreferrer"/a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
     
-Desenvolvedor junior em web/mobile, em busca de novas tecnologias e conhecimento.
+ Ja estou no ramo de Infraestrutura e Redes a 3 anos e como Desenvolvedor a 2 anos.
 
 - 📚 Estudante de Sistemas da Informação
 - 🔵 Aprendiz da Alura
