@@ -1,17 +1,22 @@
-<img src = "banner.gif" width = "400px" align = "right"> <br>
+# Seja Bem Vindo ao meu GitHub 🎲
 
-# Seja Bem Vindo ao meu GitHub🎲
+<img src="banner.gif" width="400px" align="right" alt="Banner Animado">
 
-<div id="Badges">
-  <a href = "https://www.linkedin.com/in/icaroeduardotech/" target="_blank" rel="noopener noreferrer"/a>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-    
-Especialista em Infraestrutura e Redes há 3 anos, com foco em servidores e segurança, e Desenvolvedor Front-End há 2 anos, criando interfaces modernas e automações eficientes.
+<br>
 
-- 📚 Estudante de Sistemas da Informação
+### 🚀 Sobre Mim
+
+Especialista em Infraestrutura e Redes há 3 anos, com foco em servidores e segurança, e Desenvolvedor Front-End há 2 anos, criando interfaces modernas e automações eficientes. Hoje dedico minha carreira a unir o melhor desses dois mundos, com forte foco em evoluir para **DevOps** e **Cloud**.
+
+<br clear="all">
+
+## 🎓 Especializações & Vivência Prática
+
+- 📚 Graduando em Sistemas da Informação
+- 🐧 Especialização em Linux 
 - 💻 Analista de Redes e Infraestrutura logica
 - 💻 Desenvolvedor Front End Jr. Pequeno e Medios Projetos
+- 💻 Futuro DevOps
 
 # 🌐 Infraestrutura & Redes
 <div>
@@ -30,8 +35,17 @@ Especialista em Infraestrutura e Redes há 3 anos, com foco em servidores e segu
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-
 ---
 
+## 📫 Vamos nos conectar?
+
+<div>
+  <a href="https://www.linkedin.com/in/icaroeduardotech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="COLOQUE_SEU_SITE_PORTFOLIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
 
 
