@@ -43,7 +43,7 @@ Especialista em Infraestrutura e Redes há 3 anos, com foco em servidores e segu
   <a href="https://www.linkedin.com/in/icaroeduardotech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="COLOQUE_SEU_SITE_PORTFOLIO_AQUI" target="_blank">
+  <a href="https://isdevworks.github.io/meu-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </div>
