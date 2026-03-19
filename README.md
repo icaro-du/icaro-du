@@ -10,7 +10,6 @@
 Especialista em Infraestrutura e Redes há 3 anos, com foco em servidores e segurança, e Desenvolvedor Front-End há 2 anos, criando interfaces modernas e automações eficientes.
 
 - 📚 Estudante de Sistemas da Informação
-- 🔵 Aprendiz da Alura
 - 💻 Analista de Redes e Infraestrutura logica
 - 💻 Desenvolvedor Front End Jr. Pequeno e Medios Projetos
 
